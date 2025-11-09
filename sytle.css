@@ -1,0 +1,138 @@
+body{
+    background-color: #050a30;
+    margin: 0;
+}
+.hi{
+    h1{
+        color: white;
+        font-family: 'Pacifico', cursive;
+        font-weight: 400;
+        font-size: 100px;
+        font-style: normal;
+        text-align: center;
+        margin-top: 150px;
+        
+    }
+
+    h2{
+        color: white;
+        font-family: 'Source Serif 4', serif;
+        font-optical-sizing: auto;
+        font-weight:lighter;
+        font-style: normal;
+        font-size: 50px;
+        text-align: center;
+        padding-top: 0;
+        margin-top: 0;
+    }
+}
+
+.intro{
+    padding-bottom: 10%;
+    padding-top: 5%;
+    text-align: center;
+    
+    
+    img{
+        margin-top: 500px;
+        border-radius: 50%;
+        height: 200px;
+    }
+
+    h1{
+        color: white;
+        text-align: center;
+        font-size: 50px;
+
+
+    }
+    p{
+        color: white;
+        font-family: 'Source Serif 4', serif;
+        font-size: 20px;
+        font-weight: lighter;
+        width: 25%;
+        line-height: 1;
+        margin: auto;
+    }
+}
+
+.aboutme{
+    margin-top: 300px;
+    h1{
+        color: white;
+        text-align: center;
+        font-size: 50px;
+    }
+
+    p{
+        font-size: 20px;
+        font-family: 'Source Serif 4', serif;
+        line-height: 2;
+        color: white;
+        margin:0px 150px;
+    }
+
+}
+
+.projects{
+    margin-top: 400px;
+    background-color: #7D82B1;
+    text-align: center;
+    h1{
+        color: white;
+        font-size: 50px;
+        text-align: center;
+    }
+    img{
+        height: 400px;
+        width:700px;
+        
+    }
+}
+
+.Getintouch{
+    margin-top: 400px;
+    text-align: center;
+    h1{
+        margin:0;
+        color: white;
+        font-size: 50px;
+        
+    }
+    h3{
+        color: white;
+        font-size: 20px;
+        margin-bottom: 30px;
+    }
+    p{
+        color: white;
+        font-size: 15px;
+        margin-bottom:30px;
+        font-family: 'Source Serif 4', serif;
+        
+    }
+    button{
+        background-color: #7D82B1;
+        font-size:20px ;
+        color: white;
+        margin-bottom: 40px;
+        border-color:white;
+        border-top-left-radius: 20px;
+        border-bottom-left-radius: 20px;
+        border-top-right-radius: 20px;
+        border-bottom-right-radius: 20px;
+        border: 1;
+        width:150px;
+        height:50px
+        
+    }
+    
+}
+footer{
+        background-color: #7D82B1;
+        color: white;
+        height: 100px;
+        margin-top: 50px;
+
+    }
